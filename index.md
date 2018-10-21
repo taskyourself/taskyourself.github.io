@@ -1,6 +1,6 @@
 ## The team
 Our enthusiastic team is made of:
- - `Teodora Goran` - Project owner (<goranteodora79@gmail.com>)
+ - `Teodora Goran` - Product owner (<goranteodora79@gmail.com>)
  - `Cosmin Petrisor` - Project manager (<cosmin.ioan.petrisor@gmail.com>)
  - `Denisa Bortanoiu` - Backend developer (<denisabortanoiu@gmail.com>)
  - `Andra Ilie` - Frontend developer (<andra.teodora16@gmail.com>)
@@ -10,8 +10,8 @@ Our enthusiastic team is made of:
 Start-ups and small companies do not have a well-adjusted organization scheme. 
 People tend to struggle with defining what their activities and attributions should be,
 as, in the beginning, a business is rather chaotic on a day to day basis.
-A bad task-management system leads to inefficient practises that translate
-directly into financial loses.
+A bad task-management system leads to inefficient practises that could translate
+into financial loses.
 
 ## Our solution
 `TaskYourself` is a web application for efficient project management. 
@@ -51,28 +51,7 @@ searching for past, current and future plans is **easy** and **immediate**.
  * `Tasks created daily`: 
 
 ## Cost structure
- 
+
 
 ## Revenue streams
 
-
-
-You can use the [editor on GitHub](https://github.com/taskyourself/taskyourself.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
