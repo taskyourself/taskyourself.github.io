@@ -54,4 +54,10 @@ searching for past, current and future plans is **easy** and **immediate**.
 
 
 ## Revenue streams
-
+The project aims to gain popularity by offering a 6-months trial period for companies.
+After the expiration of the trial, companies will pay a monthly fee, depending on the number
+of their employees. 
+Any individual outside of a company's boundaries will be able to use the application
+free of charge, in order to drive adoption and in the hope that individuals who have
+successfully organised their tasks with TaskYourself would consider upgrading to a 
+company subscription as soon as they start their own business.
