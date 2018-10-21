@@ -44,20 +44,25 @@ searching for past, current and future plans is **easy** and **immediate**.
  * Platform independent, small footprint application
 
 ## Key metrics
- * `Users with an account`: in the launching phase, 
- the most important metric is the adoption rate of the platform. 
- * `Daily active users`: 
- * `Boards created daily`:
- * `Tasks created daily`: 
+ * `Users with an account`: In the launching phase, 
+ the most important metric is the adoption rate of the platform. We expect
+ at least 25 individual accounts and 3 company accounts (includes accounts per employee)
+ in the first 6 months. 
+ * `Daily/weekly active users`: At least 25% of registered accounts are active once per day
+ and at least 50% of registered accounts are active 2-3 times per week.
+ * `Boards created`: We expect that every company will create at least 1 board per week and that
+ every individual to create at least 1 board.
+ * `Tasks created`: We expect that every company will create at least 1 task per employee per day
+ and that every individual will create at leat 1 task per week (2-3 tasks per week for active users).
 
 ## Cost structure
 
 
 ## Revenue streams
-The project aims to gain popularity by offering a 6-months trial period for companies.
+The project aims to gain popularity by offering a **6-months trial period** for companies.
 After the expiration of the trial, companies will pay a monthly fee, depending on the number
 of their employees.<br/>
 Any individual outside of a company's boundaries will be able to use the application
-free of charge, in order to drive adoption and in the hope that individuals who have
+**free of charge**, in order to drive adoption and in the hope that individuals who have
 successfully organised their tasks with TaskYourself would consider upgrading to a 
 company subscription as soon as they start their own business.
