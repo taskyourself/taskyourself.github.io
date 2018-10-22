@@ -56,7 +56,12 @@ searching for past, current and future plans is **easy** and **immediate**.
  and that every individual will create at leat 1 task per week (2-3 tasks per week for active users).
 
 ## Cost structure
-
+Startup costs require careful planning and meticulous accounting. 
+ * Salary of owner/manager
+ * Employee expenses
+ * Advertising and promotion - we will never succedd without promoting 
+ * Softare Services
+ * Unexpected expenses
 
 ## Revenue streams
 The project aims to gain popularity by offering a **6-months trial period** for companies.
